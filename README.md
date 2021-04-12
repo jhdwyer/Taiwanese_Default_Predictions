@@ -24,3 +24,11 @@ Further analysis could benefit from the following:
   - Engineering features in order to better predict if a customer with default
   - Adding more models such as a XGBoost model to try and generate a higher F1 score
   - Running model on more unseen data
+
+# Repository Structure
+```
+├── data
+├── images
+├── Final_Notebook.ipynb
+└── README.md
+```
